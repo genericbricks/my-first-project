@@ -1,2 +1,3 @@
-# my-first-project
-its the first
+# about my first project..
+i have NOT decided what to make but i guess we're here
+be aware that i am **not** very experienced with coding
